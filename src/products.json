@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "type": "sweater",
+    "size": "M",
+    "brand": "Nike",
+    "price": "29.00"
+  },
+  {
+    "id": "2",
+    "type": "pants",
+    "size": "L",
+    "brand": "Levi",
+    "price": "250.00"
+  }
+]
