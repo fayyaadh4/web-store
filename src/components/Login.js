@@ -8,16 +8,16 @@ import {
   Typography,
 } from "@mui/material";
 import Center from "./Center";
-import { createAPIEndpoint, ENDPOINTS } from "../api";
+// import { createAPIEndpoint, ENDPOINTS } from "../api";
 
 export default function Login() {
-  const login = (e) => {
+  /* const login = (e) => {
     e.preventDefault();
     createAPIEndpoint(ENDPOINTS.user)
       .post(values)
       .then((res) => console.log(res))
       .catch((err) => console.log(err));
-  };
+  };*/
   return (
     <Center>
       <Card sx={{ width: 400 }}>
